@@ -22,6 +22,8 @@ En VS Code con Tinymist, configurar `tinymist.rootPath` a la raíz del repositor
 
 ## TFG
 
+El proceso para completar la memoria está en [tfg/CHECKLIST.md](tfg/CHECKLIST.md).
+
 - Metadatos (título, autor, tutores, fecha) en `tfg/main.typ`.
 - `borrador: true` muestra las notas `#pendiente[...]` y la extensión objetivo de cada capítulo; poner `false` para la versión final.
 - Figuras, tablas y ecuaciones se numeran por capítulo (3.1, 3.2…; en anexos A.1…). Se referencian con etiquetas: `<fig-...>` y `@fig-...`.
