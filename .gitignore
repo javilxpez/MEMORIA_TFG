@@ -1,0 +1,4 @@
+build/
+*.pdf
+# PDFs de referencia de terceros: no se versionan.
+examples/
